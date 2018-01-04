@@ -11,6 +11,6 @@
    3/ pip install imutils </br>
    
    
-## Runing code </br>
+## Running code </br>
  ### on the top level directory execute </br>
  python face-mask.py --shape-predictor ./models/shape_predictor_68_face_landmarks.dat --image images/leo.jpeg </br>
